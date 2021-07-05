@@ -1,0 +1,36 @@
+//
+//  Localizable.strings
+//  FlickrApp
+//
+//  Copyright © 2021 BinaryBoy. All rights reserved.
+//
+
+// MARK: Errors
+"Common_GeneralError" = "There was an error";
+"Common_InternetError" = "No internet connection";
+
+// MARK: Home Screen
+"Fliker_Title" = "Fliker";
+
+"Search_Placeholder" = "Search for photos";
+
+// MARK: Internet Errors
+"No_Internet_Connection_Title" = "No internet connection";
+"No_Internet_Connection_Subtitle" = "Please check your internet connection and try again.";
+
+// MARK: Photos Errors
+"No_Photos_Error_Title" = "No Photos";
+"No_Photos_Error_Subtitle" = "Please, try again later";
+
+// MARK: Ready to Search
+"Ready_To_Search_Title" = "Ready to search";
+"Ready_To_Search_Subtitle" = "Begin search by tap Search Now";
+
+// MARK: Header Title
+"Search_History_Title" = "Search history";
+"Search_Result_Title" = "Search result for %@";
+
+"Try_Action" = "Try again";
+"Search_Action" = "Search now";
+
+
